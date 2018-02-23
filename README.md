@@ -1,0 +1,3 @@
+# Rub
+This is my first rep, checking everything out...
+This is my readme.md file
